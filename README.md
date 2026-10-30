@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
