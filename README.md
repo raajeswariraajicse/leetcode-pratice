@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Tree
 |  |
 | ------- |
@@ -50,9 +52,19 @@
 | ------- |
 | [0344-reverse-string](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0541-reverse-string-ii) |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0541-reverse-string-ii) |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
+## Sorting
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
