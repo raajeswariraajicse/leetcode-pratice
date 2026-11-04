@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0541-reverse-string-ii) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
