@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
+| [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
@@ -68,5 +69,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
