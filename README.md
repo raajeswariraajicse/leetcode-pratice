@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,5 +91,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
