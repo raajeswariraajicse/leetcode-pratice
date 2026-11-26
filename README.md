@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Tree
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Bucket Sort
 |  |
@@ -89,12 +92,18 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0371-sum-of-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
