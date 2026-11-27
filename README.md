@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Hash Table
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/0338-counting-bits) |
 | [1048-longest-string-chain](https://github.com/raajeswariraajicse/leetcode-pratice/tree/master/1048-longest-string-chain) |
 ## Sorting
